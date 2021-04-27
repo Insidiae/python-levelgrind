@@ -17,3 +17,4 @@
 1. Loops Mini-Projects
    - [Mini-Project 1: Guessing Game](./guess.py)
    - [Mini-Project 2: Rock Paper Scissors Refactor](./janken_loop.py)
+1. [Lists](./lists.ipynb)
