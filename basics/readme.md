@@ -18,3 +18,5 @@
    - [Mini-Project 1: Guessing Game](./guess.py)
    - [Mini-Project 2: Rock Paper Scissors Refactor](./janken_loop.py)
 1. [Lists](./lists.ipynb)
+1. [Dictionaries](./dictionaries.ipynb)
+1. [Tuples and Sets](./tuples_sets.ipynb)
