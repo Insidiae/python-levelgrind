@@ -4,3 +4,4 @@
 
 1. [List/Dictionary/Set Comprehensions](./comprehensions.ipynb)
 1. [Functions](./functions.ipynb)
+1. [Lambdas and Built-in Functions](./lambdas.ipynb)
