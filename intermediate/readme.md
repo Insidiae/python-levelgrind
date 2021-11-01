@@ -3,5 +3,10 @@
 ## Table of Contents
 
 1. [List/Dictionary/Set Comprehensions](./comprehensions.ipynb)
-1. [Functions](./functions.ipynb)
-1. [Lambdas and Built-in Functions](./lambdas.ipynb)
+2. [Functions](./functions.ipynb)
+3. [Lambdas and Built-in Functions](./lambdas.ipynb)
+4. [Error Handling and Debugging](errors.ipynb)
+5. [Modules](./modules.ipynb)
+   - [Exercise: Print colored text in the terminal](colors.py)
+   - [Exercise: ASCII Art](ascii_art.py)
+6. [Mini-Project: Making HTTP API requests using Python](dad_jokes.py)
