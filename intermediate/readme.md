@@ -10,3 +10,5 @@
    - [Exercise: Print colored text in the terminal](colors.py)
    - [Exercise: ASCII Art](ascii_art.py)
 6. [Mini-Project: Making HTTP API requests using Python](dad_jokes.py)
+7. [Object-Oriented Programming](oop.ipynb)
+8. [Project: Deck of Cards](deck_of_cards.py)
