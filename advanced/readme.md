@@ -8,3 +8,4 @@
 4. [File I/O](file_io.ipynb)
    - [Exercise: Reading and Writing CSV files](csv_exercise.py)
 5. [Project: Web Scraping using BeautifulSoup](scraping_project.py)
+6. [Project: Web Scraping to an SQL Database](sql_book_scraper.py)
